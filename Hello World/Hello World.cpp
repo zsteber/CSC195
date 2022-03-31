@@ -9,6 +9,8 @@ int main()
     short shVal2 = 0;
     int iVal3 = -2;
 
+    std::cout << "\n CSC195";
+
     std::cout << "Hello World!\n";
     std::cout << "Val1 = ";
     std::cout << iVal1;
